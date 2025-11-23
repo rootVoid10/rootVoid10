@@ -2,7 +2,7 @@
 
 ### Cybersecurity student passionate about ethical hacking and system protection
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootVoid10&label=Profile views&color=0e75b6&style=flat" alt="rootVoid10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootVoid10&label=Profile views&color=0e75b6&style=flat" /> </p>
 
 - 🔭 I'm currently working on **Cybersecurity labs and hands-on projects (Rootme, HackTheBox
 Developing my skills in offensive security and coding**
@@ -15,9 +15,9 @@ Developing my skills in offensive security and coding**
 
 - 💬 Ask me about **Ethical hacking, cybersecurity tools, Linux, web security, or Capture-the-Flag challenges**
 
-- 👨‍💻 All of my projects are available at **[https://www.soonmaybe.com/](https://www.soonmaybe.com/)**
+- 👨‍💻 All of my projects are available at **[https://www.soonmaybe.com/](https://www.soonmaybe.com)**
 
-- 📝 I regularly write articles on **[https://www.soonmaybe.com/](https://www.soonmaybe.com/)**
+- 📝 I regularly write articles on **[https://www.soonmaybe.com/](https://www.soonmaybe.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
