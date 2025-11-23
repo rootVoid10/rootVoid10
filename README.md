@@ -15,9 +15,9 @@ Developing my skills in offensive security and coding**
 
 - 💬 Ask me about **Ethical hacking, cybersecurity tools, Linux, web security, or Capture-the-Flag challenges**
 
-- 👨‍💻 All of my projects are available at **[https://www.google.com/](https://www.google.com/)**
+- 👨‍💻 All of my projects are available at **[https://www.soonmaybe.com/](https://www.soonmaybe.com/)**
 
-- 📝 I regularly write articles on **[https://www.google.com/](https://www.google.com/)**
+- 📝 I regularly write articles on **[https://www.soonmaybe.com/](https://www.soonmaybe.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
