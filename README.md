@@ -3,7 +3,7 @@
 ### Cybersecurity student passionate about ethical hacking and system protection
 
 - 🔭 I'm currently working on **Cybersecurity labs and hands-on projects (Rootme, HackTheBox
-Developing my skills in offensive security and coding**
+Developing my skills in offensive security and coding**)
 
 - 🌱 I'm currently learning **Python and Assembly, Javascript**
 
