@@ -11,7 +11,7 @@
 - Currently learning **Python**, **Assembly**, and **JavaScript**
 - Looking to collaborate on **open-source security tools** and **CTF challenges**
 - Ask me about **ethical hacking, Linux, web security, or CTFs**
-- Projects & articles → coming soon
+- Projects & articles → [Portofolio](https://voidsec.fr)
 
 ---
 
@@ -40,6 +40,6 @@
 ### Platforms
 
 <p align="left">
-  <a href="https://www.root-me.org/"><img src="https://img.shields.io/badge/RootMe-black?style=for-the-badge&logo=linux&logoColor=white" /></a>
-  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
+  <a href="[https://www.root-me.org/](https://www.root-me.org/Void-1005036)"><img src="https://img.shields.io/badge/RootMe-black?style=for-the-badge&logo=linux&logoColor=white" /></a>
+  <a href="[https://www.hackthebox.com/](https://app.hackthebox.com/users/2726659)"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
 </p>
