@@ -11,7 +11,7 @@
 - Currently learning **Python**, **Assembly**, and **JavaScript**
 - Looking to collaborate on **open-source security tools** and **CTF challenges**
 - Ask me about **ethical hacking, Linux, web security, or CTFs**
-- Projects & articles → [Portofolio](https://voidsec.fr)
+- Projects & articles → [Portfolio](https://voidsec.fr)
 
 ---
 
